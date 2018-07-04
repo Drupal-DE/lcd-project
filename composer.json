@@ -1,6 +1,6 @@
 {
-    "name": "drupal/lcd",
-    "description": "Project template for Local Community Distribution projects with composer, built from drupal-composer/drupal-project",
+    "name": "drupal/lcd-project",
+    "description": "Project template for Local Community Distribution projects with composer.",
     "type": "project",
     "license": "GPL-2.0-or-later",
     "authors": [
@@ -11,7 +11,7 @@
     ],
     "support": {
         "issues": "http://drupal.org/project/issues/lcd",
-        "source": "http://cgit.drupalcode.org/lcd"
+        "source": "https://github.com/Drupal-DE/lcd-project"
     },
     "repositories": {
         "drupal": {
