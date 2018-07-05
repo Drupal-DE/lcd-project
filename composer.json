@@ -29,6 +29,7 @@
         "drupal-composer/drupal-scaffold": "^2.5",
         "drupal/address": "^1.4",
         "drupal/admin_toolbar": "^1.24",
+        "drupal/classy_paragraphs": "^1.0@beta",
         "drupal/config_filter": "^1.2",
         "drupal/config_ignore": "^2.1",
         "drupal/config_split": "^1.3",
