@@ -36,6 +36,7 @@
         "drupal/config_update": "^1.5",
         "drupal/console": "^1.0.2",
         "drupal/core": "~8.5.3",
+        "drupal/default_content": "^1.0@alpha",
         "drupal/diff": "^1.0@RC",
         "drupal/dynamic_entity_reference": "^1.5",
         "drupal/eu_cookie_compliance": "^1.0",
